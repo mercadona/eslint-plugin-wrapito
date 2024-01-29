@@ -1,6 +1,7 @@
 {
   "name": "eslint-plugin-wrapito",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "An ESLint plugin for wrapito",
   "keywords": [
     "eslint",
@@ -38,7 +39,6 @@
   "peerDependencies": {
     "eslint": ">=7"
   },
-  "license": "MIT",
   "release": {
       "branches": ["main"]
   }
